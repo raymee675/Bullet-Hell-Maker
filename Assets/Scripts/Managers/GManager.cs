@@ -210,7 +210,7 @@ public class GManager : MonoBehaviour
         if (IManager.buttonPressed && state == GameState.Title)
         {
             state = GameState.ChoosingStage;
-            UIManager.GoToChooseStage();
+            //UIManager.GoToChooseStage();
         }
         UIManager.UpdateUI();
 

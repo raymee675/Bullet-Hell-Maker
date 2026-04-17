@@ -67,7 +67,7 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Bullet-Hell.sln",
+    "dotnet.defaultSolution": "Bullet-Hell-Maker.sln",
     "dotnet.server.useOmnisharp": true,
     "omnisharp.dotnetPath": "C:\\Program Files\\dotnet\\dotnet.exe"
 }
